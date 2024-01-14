@@ -1017,6 +1017,14 @@ file = "config/yungsmenutweaks-forge-1_20_1.toml"
 hash = "880b5e4a8471f830eb58bea3ce6dcf640821257b03d9607b9bd4dc0835f0a298"
 
 [[files]]
+file = "mods/EggDelight-v1.1-1.20.1.jar"
+hash = "898b4fc5dc5af09eff560c2feb9a3d8195674febdac01da98d2acc4329020945"
+
+[[files]]
+file = "mods/Structory_1.20.2_v1.3.4.jar"
+hash = "b23b6565cac9af8c30a3f5faa110b3b6def6aa0d6d410c178107aacc1524d9a5"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "2823f67bc12454a6941062d99254aba1e31b2b9b639a030c2d5548df9df863d1"
 metafile = true
@@ -1222,11 +1230,6 @@ hash = "7ea03f099318b30af9905154f6f399164f0af58b934baedf0094a2e69d0597da"
 metafile = true
 
 [[files]]
-file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
 metafile = true
@@ -1297,11 +1300,6 @@ hash = "7b815d29dde405665972fe7b176f50d4a705cc98d6a81063b871a0c5d38c9f2a"
 metafile = true
 
 [[files]]
-file = "mods/egg-delight.pw.toml"
-hash = "af7f9e4ee306ebc05be6dd320dec3eb69560e0a3f4dcc3da6c24f1ccc160ae80"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
@@ -1352,9 +1350,8 @@ hash = "98d56f19d311489359f641fcb43e01529c3144b45195d4771a928b87ecf180dd"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
-metafile = true
+file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
@@ -1387,9 +1384,8 @@ hash = "865f26c796d9fa6aab98b8e400bf2a67a7a586432317430bef8d8af8cf028a4e"
 metafile = true
 
 [[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ff7228e40800d8cf94fee48f042bcf3ac2c8945cefa59007dc9a82394eda6872"
-metafile = true
+file = "mods/fixexperiencebug-1.20-46.2.2.jar"
+hash = "08dc722aaa1bd61b4ee867badeb830e537b8362633197dd211c772a4a002f42e"
 
 [[files]]
 file = "mods/flib.pw.toml"
@@ -1652,9 +1648,8 @@ hash = "63edf067c594089af4f367df3f5374beca34161364801839943607ab5a788dba"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "1fd71627fc520c6b39d310bff6b6b26fb56ae627627959c641a38f6ca7de81ba"
-metafile = true
+file = "mods/skinlayers3d-forge-1.6.2-mc1.20.1.jar"
+hash = "856132239e2e719f10b79c18145d5ae78d461e9366d5970c211afa03c7131994"
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
@@ -1694,11 +1689,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "653307d3f6179063003abff7fd4688d7ba3008ea0396611a6eafb8ea615b861b"
 metafile = true
 
 [[files]]
