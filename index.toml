@@ -1170,6 +1170,11 @@ hash = "d5ed5aff0921d0e95d0d470b31fb7ad2d132de4a23adb3096b4c8d1a2020ff79"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "d82eb88a3cc12f69c07c4524f91a28473470817e14d2d4824ee4138c19fde3c7"
 metafile = true
