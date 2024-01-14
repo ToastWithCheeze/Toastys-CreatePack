@@ -1,0 +1,11 @@
+name = "Toastys Create"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6ca20764206700b2b8f4951db1fc295b17b9e5cc2921fa38db92a693b780fed9"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

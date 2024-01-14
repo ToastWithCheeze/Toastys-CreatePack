@@ -1,0 +1,13 @@
+name = "Create Netherrack"
+filename = "Create-Netherrack-1.20.1-3.4.3-_FORGE_.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f39fcf407797fdbf9d0c748e992ba5651276e8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4925780
+project-id = 946379

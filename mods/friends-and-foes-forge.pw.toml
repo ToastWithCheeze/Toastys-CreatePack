@@ -1,0 +1,13 @@
+name = "Friends&Foes (Forge) (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal and Tuff Golem)"
+filename = "friendsandfoes-forge-mc1.20.1-2.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8fddd5bd7cd06f9521a268745f2855112ab11f9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5012902
+project-id = 602059
