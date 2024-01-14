@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "a0ee746064b06d09cab0768116ec265fd0d45261d4087c9ad2c698a07c7aac0e"
+
+[[files]]
 file = "config/EmiLootConfig_v1.json"
 hash = "549a01a4183ce775ff7e3972a31372ce272a2c7d82a563d73053c258c5749eff"
 
@@ -450,7 +454,7 @@ hash = "2c7ac93d00168358c819c1cccf08b83c0ad7f76e34b483b58ae46d574b1b800a"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "d048f1f87fd8e006a5a77accb0416f7ef673197b29d65d0397dce7eb6b2b7d0f"
+hash = "816d97cab7871f10f8fc0af3ebc055feff8ab6816da7fe19f14ddcef33a31bfa"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
