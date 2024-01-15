@@ -1,10 +1,11 @@
 name = "Toastys Create"
+version = "0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a94bc3a16031d4ff0ba018c89795c29874ad9bbdef011239e42f046de72a6a1f"
+hash = "558b85911e9f2ef54c8ca1fb1580a8094dc5a3ac7acc06bb74b9ccdb730ce8fe"
 
 [versions]
 forge = "47.2.0"
